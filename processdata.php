@@ -1,7 +1,7 @@
 <?php
-echo "Hi, Im processdata.php file";
-// GLOBAL VARIABLE
-//print_r($_GET);
+// echo "Hi, Im processdata.php file";
+// // GLOBAL VARIABLE
+// //print_r($_GET);
 
 $name = $_GET["name"];
 
